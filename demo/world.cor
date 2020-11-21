@@ -9,50 +9,55 @@
 # Carnegie Mellon University
 # Univ. of Calif. at Irvine
 # University of Maryland
--110 35        # Northern Arizona University, Flagstaff, Arizona
--111 32        # Univ. of Arizona, Tucson, Arizona
--110 43        # University of Utah, Salt Lake City, Utah
--118 34        # California Institute of Technology (CALTECH), L.A., Calif.
--118 34        # Claremont, California
--118 34        # Univ. of Calif. at Los Angeles (UCLA), California
--120 34.5      # Univ. of Calif. at Santa Barbara, California
--122 37.5      # Stanford, California
--122 38        # Berkeley, California
--122 38        # Richmond, California
--122 47.5      # University of Washington, Washington
--71 42.5       # MIT, Cambridge, Massachusetts
--74.5 40.5     # New Brunswick, New Jersey
--75 41         # Bethlehem, Pennsylvania
--76 42         # Cornell College, Ithica, New York
--78.5 38       # Univ of Virginia, Charlottesville, Virginia
--79 36         # N.C. State University, Chapel Hill, North Carolina
--80 35         # Duke University, Durham, North Carolina
--81 28         # Melbourne, Florida
--83 40         # Ohio State, Columbus, Ohio
--83 42         # Detroit, Michigan
--84 34         # Alpharetta, Georgia
--84 34         # Atlanta, Georgia
--84 42         # Univ. of Michigan, Ann Arbor, Michigan
--86 39         # UCS Indiana (?)
--88 40         # University of Illinois, Urbana-Champaign, Illinois
--88 42         # Arlington Heights, Illinois
--88 42         # Northwestern University, Evanston, Illinois
--92 30         # Lafayette, Louisiana
--93 45         # Eagan, Minnesota
--95 30         # Houston, Texas
--95 39         # Kansas State University
--96 31         # Texas A&M, College Station, Texas
--98 30         # Univ of Texas, Austin, Texas
+-93.7043 32.4286        # Louisiana State University Shreveport, Shreveport, Louisiana
+-110 35                 # Northern Arizona University, Flagstaff, Arizona
+-111 32                 # Univ. of Arizona, Tucson, Arizona
+-110 43                 # University of Utah, Salt Lake City, Utah
+-118 34                 # California Institute of Technology (CALTECH), L.A., Calif.
+-118 34                 # Claremont, California
+-118 34                 # Univ. of Calif. at Los Angeles (UCLA), California
+-120 34.5               # Univ. of Calif. at Santa Barbara, California
+-122 37.5               # Stanford, California
+-122 38                 # Berkeley, California
+-122 38                 # Richmond, California
+-122 47.5               # University of Washington, Washington
+-71 42.5                # MIT, Cambridge, Massachusetts
+-74.5 40.5              # New Brunswick, New Jersey
+-75 41                  # Bethlehem, Pennsylvania
+-76 42                  # Cornell College, Ithica, New York
+-78.5 38                # Univ of Virginia, Charlottesville, Virginia
+-79 36                  # N.C. State University, Chapel Hill, North Carolina
+-80 35                  # Duke University, Durham, North Carolina
+-81 28                  # Melbourne, Florida
+-83 40                  # Ohio State, Columbus, Ohio
+-83 42                  # Detroit, Michigan
+-84 34                  # Alpharetta, Georgia
+-84 34                  # Atlanta, Georgia
+-84 42                  # Univ. of Michigan, Ann Arbor, Michigan
+-86 39                  # UCS Indiana (?)
+-88 40                  # University of Illinois, Urbana-Champaign, Illinois
+-88 42                  # Arlington Heights, Illinois
+-88 42                  # Northwestern University, Evanston, Illinois
+-92 30                  # Lafayette, Louisiana
+-93 45                  # Eagan, Minnesota
+-95 30                  # Houston, Texas
+-95 39                  # Kansas State University
+-96 31                  # Texas A&M, College Station, Texas
+-98 30                  # Univ of Texas, Austin, Texas
 # Canada
--123 49        # BC Hydro, Vancover, British Columbia  (?)
--63 45         # Dartmouth, Nova Scotia, Canada
--75 45         # Ecole Polytechnique de Montreal, Canada
+-123 49                 # BC Hydro, Vancover, British Columbia  (?)
+-63 45                  # Dartmouth, Nova Scotia, Canada
+-75 45                  # Ecole Polytechnique de Montreal, Canada
 # United Kingdom
--8 54.5        # Bangor, United Kingdom
--80.5 43.5     # Waterloo, Ontario, Canada
-0 52           # Cambridge, U. K.
+-8 54.5                 # Bangor, United Kingdom
+-80.5 43.5              # Waterloo, Ontario, Canada
+0 52                    # Cambridge, U. K.
 # Italy
 14 46          # Trieste, Italy
+# Slovenia
+46.3679 14.1086         # Lake Bled, Bled, Slovenia
+46.5575 15.6456         # Maribor, Slovenia
+46.3676 14.3088         # Tržič, Slovenia
 # Australia
 138.5666 -35.01666      # Flinders University, Adelaide, South Australia
 138.6333 -34.8          # South Australian Institute, Adelaide, South AUS
